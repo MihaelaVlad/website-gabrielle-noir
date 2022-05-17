@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="38" height="29.75" viewBox="0 0 38 29.75">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        opacity: 0.5;
+      }
+
+      .cls-3 {
+        filter: url(#Path_61);
+      }
+    </style>
+    <filter id="Path_61" x="0" y="0" width="38" height="29.75" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="next" class="cls-1" transform="translate(9 17.75) rotate(-90)">
+    <g id="Group_62" data-name="Group 62" transform="translate(0 0)">
+      <g class="cls-3" transform="matrix(0, 1, -1, 0, 17.75, -9)">
+        <path id="Path_61-2" data-name="Path 61" class="cls-2" d="M.319,9.22l8.9-8.9a1.1,1.1,0,0,1,1.547,0l.655.655a1.1,1.1,0,0,1,0,1.547L3.948,10l7.482,7.482a1.1,1.1,0,0,1,0,1.547l-.655.655a1.1,1.1,0,0,1-1.547,0L.319,10.772a1.1,1.1,0,0,1,0-1.553Z" transform="translate(9 17.75) rotate(-90)"/>
+      </g>
+    </g>
+  </g>
+</svg>
